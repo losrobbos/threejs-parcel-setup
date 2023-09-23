@@ -7,6 +7,11 @@ npm install
 npm start
 ```
 
+Once parcel started, it will give the URL where you can see your web app. Ususually that is:
+
+http://localhost:1234
+
+
 ## ThreeJS intro
 
 ThreeJS is a very popular JavaScript library for generating 3D scenes & objects.
